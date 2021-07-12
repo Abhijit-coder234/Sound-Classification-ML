@@ -7,6 +7,7 @@ with an acceptable classification accuracy score. This project is able to conver
 audio to images and use these images as data to train the model to perform classification
 on a new audio signal. Deep learning with deep neural networks is implemented in this
 project which makes the system more accurate and reliable.
+
 The main objective of this project is to devise a Deep Neural Network (DNN) for a
 footstep classification system that can categorize a given audio sample into three different
 categories. A Convolutional Neural Network (CNN) is the type of Deep Neural Network
@@ -16,6 +17,7 @@ system is designed to perform various tasks as this language provides many prede
 functions such as ImageDataGenerator, callbacks, Librosa and, Sklearn giving a strong
 platform for implementation and provides a continuous interface between the user and
 the computer system.
+
 Using ImageDataGenerator, the system is able to automatically label the images as
 structured in the dataset, which is processed by the neural network. The neural network is
 devised by choosing the best possible learning rate and number of iterations to train using
